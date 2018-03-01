@@ -30,7 +30,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@null"
-            android:src="@drawable/ico_mic" />
+            android:src="@drawable/icon_mic" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -38,8 +38,9 @@
             android:layout_marginTop="10dp"
             android:text="@string/tap_on_mic"
             android:textColor="@color/white"
-            android:textSize="15dp"
+            android:textSize="15sp"
             android:textStyle="normal" />
+
     </LinearLayout>
 
 </RelativeLayout>
