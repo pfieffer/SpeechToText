@@ -3,21 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="/home/ravi/AndroidStudioProjects/SpeechToText/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="C:\Users\ravi\.android\build-cache\44a6a1f8bdb0d3e80a64a0b95ae49597f9b4e315\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="4d921410781f4d6cb22ca6a6ce2784e8c7dfeeb1">
-        <dex dex="/home/ravi/AndroidStudioProjects/SpeechToText/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c70f064ede9315f9eec2c60f23b1adc26f010f8b/classes.dex" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c99d02008fc134ceefe502befe759165360d2d80\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/ravi/AndroidStudioProjects/SpeechToText/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\ravi\.android\build-cache\d7a7e80fbf139b5bb69f42a225c8d854edd1f0c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40d50008d59a9006bdd0418fe985b963a3c3e115\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="784b80907c282212da509ddf59d36c3286b180c1">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_399320666c0073f1f50ab00d2a711c8ff4a20916\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\.android\build-cache\2da140fb3029995180d3a2eb98b70ac59d1726f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91610f0eee3acb5727385e1b201fd48c57c7d5e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_3e3f61868f70d8ca1c8a12ec84c6bee4b4ec3b1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\.android\build-cache\4e93935644f6c610b1ff1e4b7500516e292bec2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45744e3f149ccfae2558b6a5d8f19e9f499839e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_2c286b902d3487c969b6346daf091f14a6e9d998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\.android\build-cache\1c85701c7982d1b50494c39aba2eddd3093f840c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d39ca31d1bb1daceb3ded25e68bd642e425ead0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\.android\build-cache\fe05b174bec796a65a2d098b33e1c666c699be70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0bf4fad3442a7c556eb28479097bcbec88b0ae81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/ravi/AndroidStudioProjects/SpeechToText/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a8b9e928b3a899d5fefb16568407d706f351efd3/classes.dex" />
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ee71d742f029323d549e3006f66c7c46094d5f35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\.android\build-cache\0db2c8e19b9a845f282657c0335cd3eb95490940\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4275acdaf72e803063e790fbb6835d1bc99f3f4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\.android\build-cache\1886bb7773c738570ccdf2ed3d176b7a38c63e49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02b3fed303564ba3ec6de260810f4426cc42762e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\.android\build-cache\91212cc91d8899f88bca266cc08acb97d85104b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7675fad198770fafb819fd32a1a7e170769aaf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ravi\.android\build-cache\1ed7b14f28de0e8e934810ee1c64d6efe583b61f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\ravi\AndroidStudioProjects\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19f73ae9ec8d4044d6676ecea75da6d041ad0285\classes.dex" />
     </item>
 
 </items>
